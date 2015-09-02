@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "D:\Git\projects\python3\base\example01.py", line 19, in <module>
+    aNum = int('12345A')
+ValueError: invalid literal for int() with base 10: '12345A'
+Traceback (most recent call last):
+  File "D:\Git\projects\python3\base\example01.py", line 20, in <module>
+    aNum = int('12345A')
+ValueError: invalid literal for int() with base 10: '12345A'
+Traceback (most recent call last):
+  File "D:\Git\projects\python3\base\example01.py", line 20, in <module>
+    aNum = int('12345A')
+ValueError: invalid literal for int() with base 10: '12345A'
